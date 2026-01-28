@@ -39,7 +39,8 @@ Funcionalidad de autenticación:
 - Validación de credenciales
 - Control de intentos fallidos
 - Bloqueo automático después de 3 intentos
-  <img width="420" height="392" alt="image" src="https://github.com/user-attachments/assets/069ebd8e-fd41-426b-919b-dfe7a6765554" />
+  
+<img width="420" height="392" alt="image" src="https://github.com/user-attachments/assets/069ebd8e-fd41-426b-919b-dfe7a6765554" />
 
 
 ### `errors.py`
