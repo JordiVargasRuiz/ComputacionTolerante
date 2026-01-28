@@ -10,6 +10,8 @@ Un simulador seguro de sistema de inicio de sesión desarrollado en Python con i
 ✅ **Bloqueo de cuenta** - Después de 3 intentos fallidos  
 ✅ **Logging de seguridad** - Registra errores en archivo `security.log`  
 ✅ **Diseño moderno** - Interfaz con tema oscuro y colores cibernéticos  
+<img width="421" height="387" alt="image" src="https://github.com/user-attachments/assets/2da6b9da-d689-4aa3-b36f-6555c224efdd" />
+
 
 ## Estructura del Proyecto
 
@@ -37,6 +39,8 @@ Funcionalidad de autenticación:
 - Validación de credenciales
 - Control de intentos fallidos
 - Bloqueo automático después de 3 intentos
+- <img width="420" height="392" alt="image" src="https://github.com/user-attachments/assets/069ebd8e-fd41-426b-919b-dfe7a6765554" />
+
 
 ### `errors.py`
 Jerarquía de excepciones personalizadas:
