@@ -39,7 +39,7 @@ Funcionalidad de autenticación:
 - Validación de credenciales
 - Control de intentos fallidos
 - Bloqueo automático después de 3 intentos
-- <img width="420" height="392" alt="image" src="https://github.com/user-attachments/assets/069ebd8e-fd41-426b-919b-dfe7a6765554" />
+  <img width="420" height="392" alt="image" src="https://github.com/user-attachments/assets/069ebd8e-fd41-426b-919b-dfe7a6765554" />
 
 
 ### `errors.py`
@@ -81,6 +81,9 @@ python main.py
 ### Credenciales de prueba
 - **Usuario:** `admin`
 - **Contraseña:** `1234`
+
+<img width="420" height="389" alt="image" src="https://github.com/user-attachments/assets/36b5e9b1-0f10-401f-b354-8b799a4cacac" />
+
 
 ### Flujo de uso
 1. Ingresa el usuario y contraseña
